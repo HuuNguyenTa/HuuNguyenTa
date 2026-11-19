@@ -3,7 +3,6 @@
 **Frontend Developer (React / Node.js) & UI/UX Designer** based in Ho Chi Minh City, Vietnam.  
 Currently a Software Engineering student at **FPT University** (GPA: **3.2/4.0**, **3x Honorable Student**), passionate about building responsive, scalable web applications and user-centric interfaces.
 
-- 🔭 **Currently seeking:** Frontend / Software Developer OJT Internship at **FPT Software HCM**
 - 🌐 **Portfolio:** [huunguyen-folio.vercel.app](https://portfolio-ta-huu-nguyen.vercel.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/huu-nguyen-71747338b](https://www.linkedin.com/in/huu-nguyen-71747338b/)
 - 📫 **Email:** tahuunguyen60@gmail.com
