@@ -40,11 +40,11 @@ Currently a Software Engineering student at **FPT University** (GPA: **3.2/4.0**
 
 ### 🏆 Publications, Honors & Specializations
 
-- 📄 **Accepted Research Paper (ICIIT 2027 — ACM Digital Library / Ei & Scopus):** *"Validity-Constrained Adaptive Beam Search for Robustness Testing of Large Language Model Classifiers"* — [Replication Repository ↗](https://github.com/Bao10032006/SWT)
-- 🎓 **3x Honorable Student of Trimester** — FPT University *(Summer 2025, Fall 2025, Summer 2026)*
-- 🌏 **HELP English for Leaders Programme** — HELP University, Malaysia *(Feb 2025)*
+- 📄 **Accepted Research Paper (ICIIT 2027 - ACM Digital Library / Ei & Scopus):** *"Validity-Constrained Adaptive Beam Search for Robustness Testing of Large Language Model Classifiers"* - [Replication Repository ↗](https://github.com/Bao10032006/SWT)
+- 🎓 **3x Honorable Student of Trimester** - FPT University *(Summer 2025, Fall 2025, Summer 2026)*
+- 🌏 **HELP English for Leaders Programme** - HELP University, Malaysia *(Feb 2025)*
 - 📜 **Coursera Specializations (18 Courses Completed):**
-  - *User Experience Research and Design* — University of Michigan
-  - *Generative AI Fundamentals* — IBM
-  - *Software Engineering* — The Hong Kong University of Science and Technology (HKUST)
-  - *Object Oriented Programming in Java* — Duke University & UC San Diego
+  - *User Experience Research and Design* - University of Michigan
+  - *Generative AI Fundamentals* - IBM
+  - *Software Engineering* - The Hong Kong University of Science and Technology (HKUST)
+  - *Object Oriented Programming in Java* - Duke University & UC San Diego
