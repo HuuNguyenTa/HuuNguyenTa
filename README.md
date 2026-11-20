@@ -33,7 +33,7 @@ Currently a Software Engineering student at **FPT University**, passionate about
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
 | **Book Street Heritage Portal** | Digital library, heritage archive, and cultural event management portal for HCMC & Thu Duc Book Streets. | `React` `Vite` `Tailwind` `PostgreSQL` `Playwright` | [Visit Live ↗](https://deploy-web-nha-sach.vercel.app/) |
-| **GoGo & MeoMeo Rescue** | Virtual rescue station & community fundraising platform supporting Team 16 Sai Gon & Nha Xanh (14.8K+ views). | `React` `JavaScript` `Supabase` `Vercel` | [Visit Live ↗](https://gogomeme.vercel.app/) |
+| **GoGo & MeMe Rescue** | Virtual rescue station & community fundraising platform supporting Team 16 Sai Gon & Nha Xanh (14.8K+ views). | `React` `JavaScript` `Supabase` `Vercel` | [Visit Live ↗](https://gogomeme.vercel.app/) |
 | **Pet Haven Adoption** | Responsive SPA prototype for pet shelter listings and adoption registration workflows. | `React` `Vite` `HashRouter` `CSS3` | [Preview ↗](https://huunguyenta.github.io/pet-haven/) |
 
 ---
